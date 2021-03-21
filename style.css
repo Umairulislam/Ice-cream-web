@@ -146,7 +146,7 @@
 /* body */
 .image-container {
     height: 800px;
-    background: url(/images/icecream4.jpg);
+    background: url(images/icecream4.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
